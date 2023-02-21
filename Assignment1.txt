@@ -1,0 +1,29 @@
+Tags
+<h1> to <h6>  :- heading tags
+<p></p> :- Paragraph tag
+<li></li> : List tag 
+<ol></ol> : ordered list tag
+<button></button> : button tag
+<table></table>: table tag
+<a href="  "></a> : Used to link site
+<script src=""></script> 
+<meta> : used for search engine optimization
+<strong></strong>: used to make sentence important
+<img src=""> : used to add image
+<br> : used to break line
+<title></title> : used to give title
+<hr>: horizontal line
+<audio src=""> : insert audio file
+<b></b>: bold
+<u></u>: underline
+<i></i> : italic
+<mark></mark> : heighlight
+<canvas> and <svg> : used to add graphics
+<header>, <main> , <section> : provide more reliability 
+<input> : used to give user input
+<sub></sub> : subscript tag
+<sup></sup>: superscript 
+<big></big>: makes text big in size
+<small></small>: makes text small in size
+<del> </del>: delete or striked .
+ 
